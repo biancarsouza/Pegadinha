@@ -1,0 +1,35 @@
+body {
+
+    margin: 0;
+    background-color: black;
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+
+}
+
+canvas {
+
+    border: 0px solid black;
+
+}
+
+button{
+
+    background-color: white;
+    font-size: 35px;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    margin-top: 5px;
+    font-family: 'Montserrat';
+
+    transition: 300ms;
+
+}
+
+button:hover {
+    background-color: rgb(122, 122, 122);
+    color: white;
+}
